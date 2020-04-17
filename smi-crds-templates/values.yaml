@@ -1,0 +1,12 @@
+# Default values for smi-crds-templates.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+split:
+  version: v1alpa1
+
+access:
+  version: v1alpha1
+
+specs:
+  version: v1alpha3
